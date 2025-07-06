@@ -22,7 +22,7 @@ A modern, user-friendly GUI application for downloading YouTube playlists and in
 ## Installation
 1. Clone this repository:
    ```sh
-   git clone <your-repo-url>
+   git clone https://github.com/iliasmaatallaoui/playlist-downloader.git
    cd PLAYLIST DOWNLOADER
    ```
 2. Install Python dependencies:
